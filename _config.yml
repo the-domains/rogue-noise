@@ -1,0 +1,28 @@
+name: Rogue Noise
+favicon: null
+layout_spectrum: 0.8196384366601706
+typography_spectrum: 0.295323878293857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5853759746532887
+  lightness: 0.6017970179673284
+  saturation: 0.6971333930268884
+  rhythmicContrast: 0.7931447315495461
+purpose: []
