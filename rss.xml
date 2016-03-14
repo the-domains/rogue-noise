@@ -4,21 +4,21 @@
         <description><![CDATA[Rogue Noise Official Band Webstite]]></description>
         <link>https://thegrid.ai/rogue-noise/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 16:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 16:13:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogue-noise/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Music]]></title>
+            <description><![CDATA[<article><h1>Music</h1><p>WARNING: Sonic waves coming your way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fd0a70401a52554c4e2bfde30b8e9c07c9af4bf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rogue-noise/music/index.html</link>
+            <guid isPermaLink="false">7b68dcb2-6ade-488f-bdf8-25bceb88b2e6</guid>
+            <pubDate>Mon, 14 Mar 2016 16:13:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ Home]]></title>
             <description><![CDATA[<article><h1> Home</h1><p>We are Rogue Noise</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e48b5db8a8819869b731a3b06f350e6bf7c95f4.jpg"></article>]]></description>
             <link>https://thegrid.ai/rogue-noise/home/index.html</link>
             <guid isPermaLink="false">d7c8b9ef-1edb-48f4-89f6-b4992c746efe</guid>
             <pubDate>Mon, 14 Mar 2016 15:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Music]]></title>
-            <description><![CDATA[<article><h1>Music</h1><p>WARNING: Sonic waves coming your way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fd0a70401a52554c4e2bfde30b8e9c07c9af4bf.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rogue-noise/music/index.html</link>
-            <guid isPermaLink="false">7b68dcb2-6ade-488f-bdf8-25bceb88b2e6</guid>
-            <pubDate>Mon, 14 Mar 2016 16:06:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
