@@ -1,6 +1,6 @@
 name: Rogue Noise
 favicon: null
-layout_spectrum: 0.51205
+layout_spectrum: 0.25703
 typography_spectrum: 0.22028
 title: Rogue Noise
 cta:
@@ -22,7 +22,7 @@ color:
     - '#050608'
     - '#394344'
     - '#758c92'
-  brandStrength: 0.75
+  brandStrength: 0.6875
   lightness: 0.5
   saturation: 0.4375
   rhythmicContrast: 0.75
