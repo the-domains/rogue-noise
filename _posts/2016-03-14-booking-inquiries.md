@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'To contact Rogue Noise about booking tours and shows, please email:'
-datePublished: '2016-03-14T18:03:36.585Z'
-dateModified: '2016-03-14T18:03:18.294Z'
+description: Contact Information
+datePublished: '2016-03-14T18:07:59.999Z'
+dateModified: '2016-03-14T18:03:40.907Z'
 title: "Booking Inquiries\_"
 author: []
+sourcePath: _posts/2016-03-14-booking-inquiries.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-booking-inquiries.md
-published: true
 url: booking-inquiries/index.html
 _type: Article
 
