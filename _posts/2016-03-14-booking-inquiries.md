@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Contact Information
-datePublished: '2016-03-14T18:22:29.223Z'
-dateModified: '2016-03-14T18:22:20.773Z'
+datePublished: '2016-03-14T18:25:32.615Z'
+dateModified: '2016-03-14T18:25:07.444Z'
 title: "Booking\_"
 author: []
 sourcePath: _posts/2016-03-14-booking-inquiries.md
@@ -22,9 +22,9 @@ url: booking-inquiries/index.html
 _type: Article
 
 ---
-# Booking ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4276f369cc8fda5c0dfc00a3668488ea8bf2ab9.jpg)
+# Booking ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8afde927302516ae91658c3e5d783aa0781f37b5.jpg)
 
-Contact Information
+## Contact Information
 
 To contact Rogue Noise about booking tours and shows, please email:
 
