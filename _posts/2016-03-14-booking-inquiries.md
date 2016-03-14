@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Contact Information
-datePublished: '2016-03-14T18:43:55.406Z'
-dateModified: '2016-03-14T18:36:09.319Z'
+datePublished: '2016-03-14T18:45:41.738Z'
+dateModified: '2016-03-14T18:45:27.907Z'
 title: "Booking\_"
 author: []
 sourcePath: _posts/2016-03-14-booking-inquiries.md
