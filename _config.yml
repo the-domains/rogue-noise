@@ -28,6 +28,9 @@ navigation:
   - name: Music
     id: 7b68dcb2-6ade-488f-bdf8-25bceb88b2e6
     type: content
+  - name: Booking
+    id: fae270f9-a0c1-4bc3-9f2a-1076edd141df
+    type: content
 favicon: null
 title: Rogue Noise
 description: The Official Band Website
