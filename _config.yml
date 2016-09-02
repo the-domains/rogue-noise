@@ -1,20 +1,4 @@
-name: Rogue Noise
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.22028
-title: Rogue Noise
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#d4e5ed'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5625
   saturation: 0.4375
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Rogue Noise
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Rogue Noise
+description: The Official Band Website
 purpose: []
