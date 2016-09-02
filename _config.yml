@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Music
+    id: 7b68dcb2-6ade-488f-bdf8-25bceb88b2e6
+    type: content
 favicon: null
 title: Rogue Noise
 description: The Official Band Website
