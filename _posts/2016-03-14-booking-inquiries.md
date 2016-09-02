@@ -1,28 +1,24 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
+datePublished: '2016-08-30T18:47:11.932Z'
+isBasedOnUrl: ''
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-30T18:47:11.455Z'
+title: Contact Information
+id: fae270f9-a0c1-4bc3-9f2a-1076edd141df
+publisher: {}
+description: 'To contact Rogue Noise about booking tours and shows, please email:'
 starred: false
-keywords: []
-description: Contact Information
-datePublished: '2016-03-14T18:45:41.738Z'
-dateModified: '2016-03-14T18:45:27.907Z'
-title: "Booking\_"
-author: []
 sourcePath: _posts/2016-03-14-booking-inquiries.md
-published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-url: booking-inquiries/index.html
-_type: Article
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
-# Booking ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8afde927302516ae91658c3e5d783aa0781f37b5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c8e5e1-9db1-4998-a307-112327b0d8fb.png)
 
 ## Contact Information
 
