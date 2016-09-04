@@ -4,7 +4,7 @@
         <description><![CDATA[Rogue Noise]]></description>
         <link>https://thegrid.ai/rogue-noise/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 18:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 18:02:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogue-noise/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NEW SINGLE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rogue-noise/music/index.html</link>
             <guid isPermaLink="false">7b68dcb2-6ade-488f-bdf8-25bceb88b2e6</guid>
             <pubDate>Thu, 01 Sep 2016 18:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact Information]]></title>
+            <description><![CDATA[<article><h1>Contact Information</h1><p>To contact Rogue Noise about booking tours and shows, please email:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c8e5e1-9db1-4998-a307-112327b0d8fb.png"></article>]]></description>
+            <link>https://thegrid.ai/rogue-noise/contact-information/index.html</link>
+            <guid isPermaLink="false">fae270f9-a0c1-4bc3-9f2a-1076edd141df</guid>
+            <pubDate>Thu, 01 Sep 2016 18:02:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
