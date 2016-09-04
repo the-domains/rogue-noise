@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2eefd3f5-ebd3-4a7b-a0ef-7704a65881a9.jpg
 name: Rogue Noise
 cta:
   domain: null
@@ -32,6 +34,6 @@ navigation:
     id: fae270f9-a0c1-4bc3-9f2a-1076edd141df
     type: content
 favicon: null
-title: ''
+title: The Official Band Website
 description: ''
 purpose: []
